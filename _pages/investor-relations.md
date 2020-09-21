@@ -1,16 +1,10 @@
 ---
-layout: single
-permalink: /investor-relations/
+layout: collection
+collection: announcements
+
 title: "Investor Relations"
 excerpt: "subtitle"
-anouncements200916:
-  - url: /assets/images/anouncement_200916.png
-    image_path: /assets/images/anouncement_200916.png
-    alt: "기술이전 - 뇌연구원"
-toc: true    
-toc_sticky: true
+permalink: /investor-relations/
 ---
 
-### 주식액면분할 및 주권제출공고 - 2020년 09월 16일
-
-{% include gallery id="anouncements200916" %}
+Sample document listing for the collection `_announcements`.
