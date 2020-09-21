@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "News and Media"
+    url: /news-media/
+  - title: "Investor Relations"
+    url: /investor-relations/
