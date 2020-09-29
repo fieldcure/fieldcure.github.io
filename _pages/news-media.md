@@ -7,4 +7,4 @@ excerpt: "subtitle"
 permalink: /news-media/
 ---
 
-Sample document listing for the collection `_news`.
+회사의 주요 보도자료 및 성과이슈

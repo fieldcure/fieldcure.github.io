@@ -1,11 +1,11 @@
 ---
-title: "주식액면분할 및 주권제출공고"
+title: "주식액면분할 및 주권제출공고 안내"
 image:
   - url: /assets/images/announcement_200916.png
     image_path: /assets/images/announcement_200916.png
     alt: "announcement" 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+2020년 9월 16일 주식액면분할 및 주권제출에 대한 공고사항을 안내드립니다.
 
 {% include gallery id="image" %}
